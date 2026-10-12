@@ -140,4 +140,4 @@ Jalankan aplikasi dan pastikan semua fitur bekerja:
 | 11 | Tap tombol sosmed | Alert URL muncul ✅|
 
 ## DOKUMENTASI TUGAS APP WEB ##
-D:\APK Mobile\materi_kulaih_SMTR5B\PEMROGRAMAN MOBILE\Petemuan-3\dokumentasi_app_mobile.mp4
+![alt text](iPhone-14-PRO-localhost-uxlq2od_53y8bj.gif)
